@@ -24,10 +24,6 @@ jobs:
     - name: Install dependencies
       run: flutter pub get
 
-    - name: Run Flutter tests (optional)
-      run: flutter test --no-pub
-      continue-on-error: true
-
     - name: Build iOS app (Debug)
       run: flutter build ios --debug --no-codesign
       

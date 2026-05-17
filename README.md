@@ -5,6 +5,7 @@ Eine Flutter-App, die Systeminformationen ähnlich wie `fastfetch` anzeigt. Funk
 ## Features
 
 ✨ **Umfassende Systeminformationen:**
+
 - Device-Infos (Hersteller, Modell, Name)
 - OS-Informationen (Name, Version, API-Level)
 - Hardware-Details (CPU-Kerne, RAM, Speichernutzung)
@@ -18,6 +19,7 @@ Eine Flutter-App, die Systeminformationen ähnlich wie `fastfetch` anzeigt. Funk
 - Memory-Nutzungs-Visualisierung
 
 🎨 **Schönes Design:**
+
 - Material Design 3
 - Dark/Light Mode Support
 - Responsive Layout
